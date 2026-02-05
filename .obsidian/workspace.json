@@ -39,12 +39,14 @@
             "id": "dd627f8ad40a36f7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Done/REPLY_Gold_Test.txt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "REPLY_Gold_Test.txt"
             }
           }
         ],
@@ -210,8 +212,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "65bfde9edde9539b",
+  "active": "dd627f8ad40a36f7",
   "lastOpenFiles": [
+    "memory.json",
+    "Done/REPLY_AUTO_Briefing_1770330170.txt",
+    "Needs_Action/AUTO_Briefing_1770330170.txt",
+    "Needs_Action/Gold_Test.txt.md",
+    "Done/REPLY_Gold_Test.txt.md",
     "Done/REPLY_AUTO_Briefing_1770329444.txt",
     "Needs_Action/AUTO_Briefing_1770329444.txt",
     "Done/REPLY_AUTO_Briefing_1770329254.txt",
@@ -220,9 +227,6 @@
     "Done/REPLY_AUTO_Briefing_1770329116.txt",
     "Done/REPLY_AUTO_Briefing_1770329052.txt",
     "Done/REPLY_AUTO_Briefing_1770328991.txt",
-    "Needs_Action/AUTO_Briefing_1770329178.txt",
-    "Needs_Action/AUTO_Briefing_1770329116.txt",
-    "Needs_Action/AUTO_Briefing_1770329052.txt",
     "Needs_Action/POST_.md",
     "Needs_Action/POST_.md",
     "Done/REPLY_POST_Hackathon_Announcement.md",

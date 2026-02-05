@@ -1,5 +1,21 @@
 import webbrowser
 import urllib.parse
+import pyttsx3
+
+def speak(text):
+    """AI ki awaaz nikalne wala function"""
+    try:
+        engine = pyttsx3.init()
+        # Voice ki speed (150-200 best hai)
+        engine.setProperty('rate', 170) 
+        # Voice volume (0.0 to 1.0)
+        engine.setProperty('volume', 1.0)
+        
+        print(f"🔊 AI Speaking: {text[:50]}...")
+        engine.say(text)
+        engine.runAndWait()
+    except Exception as e:
+        print(f"❌ Voice Error: {e}")
 
 def post_to_linkedin(text):
     """
