@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "REPLY_email_task.txt"
             }
+          },
+          {
+            "id": "dd627f8ad40a36f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,30 +210,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "9bd53c2949e69793",
+  "active": "65bfde9edde9539b",
   "lastOpenFiles": [
+    "Done/REPLY_AUTO_Briefing_1770329444.txt",
+    "Needs_Action/AUTO_Briefing_1770329444.txt",
+    "Done/REPLY_AUTO_Briefing_1770329254.txt",
+    "Needs_Action/AUTO_Briefing_1770329254.txt",
+    "Done/REPLY_AUTO_Briefing_1770329178.txt",
+    "Done/REPLY_AUTO_Briefing_1770329116.txt",
+    "Done/REPLY_AUTO_Briefing_1770329052.txt",
+    "Done/REPLY_AUTO_Briefing_1770328991.txt",
+    "Needs_Action/AUTO_Briefing_1770329178.txt",
+    "Needs_Action/AUTO_Briefing_1770329116.txt",
+    "Needs_Action/AUTO_Briefing_1770329052.txt",
+    "Needs_Action/POST_.md",
+    "Needs_Action/POST_.md",
+    "Done/REPLY_POST_Hackathon_Announcement.md",
+    "Done/REPLY_POST_.md",
+    "Needs_Action/POST_Test.txt.md",
+    "Done/REPLY_POST_Test.txt.md",
+    "Needs_Action/POST_Hackathon_Announcement.md",
     "README.md.md",
     "Dashboard.md",
     "Company_Handbook.md",
     "Done/REPLY_email_task.txt.md",
-    "Untitled",
     "Needs_Action/email_task.txt.md",
     "Needs_Action/test.txt.md",
     "Done/REPLY_Untitled.md",
     "Done/REPLY_test.txt.md",
-    "brain.py",
-    "list_models.py",
-    "diagnostic.py",
     "Inbox/test.txt.md",
     "Logs/Untitled.md",
     "Inbox/test.txt.md",
     "Needs_Action/test.txt.md",
-    "watcher.py",
-    "Logs",
-    "Done",
-    "Plans",
-    "Needs_Action",
-    "Inbox",
     "Welcome.md"
   ]
 }
